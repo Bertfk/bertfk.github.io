@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      µÚÒ»´Î½¨Á¢blog
-subtitle:   Ö®ºó½«»á½¨Á¢
+title:      ç¬¬ä¸€æ¬¡å»ºç«‹blog
+subtitle:   ä¹‹åå°†ä¼šå»ºç«‹
 date:       2019-03-23
 author:     FK
 header-img: img/post-bg-cook.jpg
@@ -10,13 +10,13 @@ tags:
     - Blog
 ---
 
-## Ç°ÑÔ
+## å‰è¨€
 
-okokokokokok£¡
+okokokokokokï¼
 
 ![](https://cdn.sspai.com/2018/06/05/67b6fba3d36bdd7caf09bec94dcb157b.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
 
-iOS °æ **FaceTime** Ó­À´ÁËÈºÁÄ¹¦ÄÜ£¬×î¶àÖ§³Ö 32 ÈËÍ¬Ê±ÁÄÌì£¬³ÉÔ±¿ÉÒÔËæÊ±¼ÓÈë»òÀë¿ªÁÄÌì¡£ÁÄÌì½çÃæÓÃÆÙ²¼Á÷µÄĞÎÊ½³ÊÏÖ£¬ÕıÔÚËµ»°µÄ³ÉÔ±´°¿Ú»á×Ô¶¯·Å´ó¡£macOS °æ FaceTime Í¬ÑùÒ²µÃµ½ÁË¸üĞÂ¡£
+iOS ç‰ˆ **FaceTime** è¿æ¥äº†ç¾¤èŠåŠŸèƒ½ï¼Œæœ€å¤šæ”¯æŒ 32 äººåŒæ—¶èŠå¤©ï¼Œæˆå‘˜å¯ä»¥éšæ—¶åŠ å…¥æˆ–ç¦»å¼€èŠå¤©ã€‚èŠå¤©ç•Œé¢ç”¨ç€‘å¸ƒæµçš„å½¢å¼å‘ˆç°ï¼Œæ­£åœ¨è¯´è¯çš„æˆå‘˜çª—å£ä¼šè‡ªåŠ¨æ”¾å¤§ã€‚macOS ç‰ˆ FaceTime åŒæ ·ä¹Ÿå¾—åˆ°äº†æ›´æ–°ã€‚
 
 ![](https://cdn.sspai.com/2018-06-04-Screen%20Shot%202018-06-05%20at%202.00.58%20AM.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
 
