@@ -15,12 +15,12 @@ keyword: "BY, BY Blog, fk的博客, qiubaiying, fk, javaweb, java, python"
 >>>>>>> 8e0a54c4cef4d3452c8ef179fbc947b8ce049cba
 url: "http://bertfk.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/Bertfk/bertfk.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -34,8 +34,8 @@ facebook_username:
 jianshu_username:  
 #twitter_username:  
 =======
-# weibo_username:     qiubaiying
-zhihu_username:     全麦圈齁死你
+# weibo_username: 
+zhihu_username:     quan-mai-quan
 github_username:    bertfk
 facebook_username:  
 jianshu_username:   
@@ -79,8 +79,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: b4fe797156382c4fe3bd                   #生成的clientID
+  clientSecret: 5a54bf042997dd32b684eb4d0cc528c673e5ba92    #生成的clientSecret
   repo:bertfk.github.io    #仓库名称
   owner: bertfk   #github用户名
   admin: bertfk
@@ -94,7 +94,7 @@ gitalk:
 ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-136814833-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto          # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
