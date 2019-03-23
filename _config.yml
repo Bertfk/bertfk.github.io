@@ -1,13 +1,12 @@
 ﻿# Site settings
 title: BY Blog
-<<<<<<< HEAD
 SEOTitle: FK's blog | BY Blog
 =======
 SEOTitle: Bertfk的博客 | BY Blog
 >>>>>>> 8e0a54c4cef4d3452c8ef179fbc947b8ce049cba
 header-img: img/post-bg-desk.jpg
-email: fukang.sdufe@gmail.com
-description: "Every failure is leading towards success."
+email:  fukang.sdufe@gmail.com
+description:  "Every failure is leading towards success."
 <<<<<<< HEAD
 keyword: "BY, BY Blog, FK 's blog, bertfk, bert, JAVA, Web, PYTHON"
 =======
